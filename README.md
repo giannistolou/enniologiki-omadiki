@@ -23,7 +23,6 @@ Reference Pdf : <https://www.cidoc-crm.org/sites/default/files/cidoc_crm_version
 #### Φυτά και Ζώα
 
 1. **Δέντρα και Φυτά**: Πεύκα, κυπαρίσσια, ελιές, φοίνικες, καστανιές, κ.ά. (E26 Physical Feature)
-2. **Πτηνά και Μικρά Ζώα**: Πουλιά, σκίουροι, περιστέρια, χελώνες. (E21 Person)
 
 #### Υδάτινα Στοιχεία
 
